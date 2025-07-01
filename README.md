@@ -8,7 +8,6 @@ This project is an **Autentication Microservice** built with [NestJS](https://ne
 - [Redis (ioredis)](https://redis.io/)
 - [PostgreSQL (pg)](https://www.postgresql.org/)
 - [TypeORM](https://typeorm.io/)
-- [JWT](https://jwt.io/)
 - [RxJS](https://rxjs.dev/)
 - [Jest](https://jestjs.io/)
 - [ESLint](https://eslint.org/)
