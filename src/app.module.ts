@@ -18,9 +18,6 @@ import { DtoValidatorService } from './common/validations/dto-validator.service'
         url: config.get('DATABASE_URL'),
         entities: [User, UrlShortener],
         synchronize: true,
-        ssl: {
-          rejectUnauthorized: false,
-        },
       }),
       inject: [ConfigService],
     }),
